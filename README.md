@@ -7,7 +7,6 @@ Complete the steps described in the rest of this page, and in about five minutes
 Prerequisites:-
 
 
-To run this quickstart, you'll need:
 
    1. Python 2.6 or greater.
    2. The pip package management tool.
