@@ -6,12 +6,17 @@ Complete the steps described in the rest of this page, and in about five minutes
 
 Prerequisites:-
 
+
 To run this quickstart, you'll need:
 
    1. Python 2.6 or greater.
    2. The pip package management tool.
    3. Access to the internet and a web browser.
    4. A Google account with Gmail enabled.
+   
+   Use the link given to create client_secret.json
+   https://developers.google.com/gmail/api/quickstart/python
+   
 
 Step 1: Turn on the Gmail API
 
