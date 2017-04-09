@@ -50,7 +50,7 @@ Step 3: Run the following commands on terminal-
        11) $ sudo pip install SpeechRecognition        
 
 
-Step 4: Save the files voice_project.py, send.py, text_speech.py, listmessages.py, authenticate.py, getmessage.py in a folder named voice EMail
+Step 4: Save the files voice_project.py, send.py, text_speech.py, listmessages.py, authenticate.py, getmessage.py, client_secret.json in a folder named voice EMail
 
 Step 5: Open Terminal and use the command 'cd voice EMail' to change the directory.
 
