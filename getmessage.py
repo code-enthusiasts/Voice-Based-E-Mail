@@ -1,6 +1,5 @@
 """Get Message with given ID.
 """
-from final import *
 import base64
 import email
 from apiclient import errors
